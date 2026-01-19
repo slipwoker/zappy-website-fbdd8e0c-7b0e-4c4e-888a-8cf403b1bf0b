@@ -1,0 +1,20 @@
+# Clean URL redirects for Render static hosting
+# Generated: 2026-01-19T14:07:35.014Z
+# These rewrite rules show clean URLs to users while serving .html files
+
+/%D7%90%D7%9C%D7%9E%D7%A0%D7%98%D7%95%D7%A8-%D7%A2%D7%9E%D7%95%D7%93-631/  /אלמנטור-עמוד-631/index.html  200!
+/access/  /access.html  200!
+/%D7%9E%D7%93%D7%99%D7%A0%D7%99%D7%95%D7%AA-%D7%94%D7%A4%D7%A8%D7%98%D7%99%D7%95%D7%AA-%D7%A9%D7%9C-%D7%94%D7%90%D7%AA%D7%A8/  /מדיניות-הפרטיות-של-האתר/index.html  200!
+/privacy  /privacy.html  200!
+/accessibility  /accessibility.html  200!
+/terms  /terms.html  200!
+
+# Legal pages - redirect old .html URLs to friendly URLs
+/privacy.html  /privacy  301
+/accessibility.html  /accessibility  301
+/terms.html  /terms  301
+
+/  /index.html  200!
+
+# 404 fallback
+/*  /index.html  404
