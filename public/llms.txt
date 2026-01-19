@@ -1,56 +1,46 @@
-# Ronit Harris — Generative Engine Optimization Map
-
-> A שירותי אינטרנט ועיצוב אתרים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### משה הריס , עורך דין
-https://ronit-harris-fbdd8e0c.zappy5.app
+https://example.com
 
 ### אלמנטור עמוד 631
-https://ronit-harris-fbdd8e0c.zappy5.app/אלמנטור-עמוד-631/
+https://example.com/אלמנטור-עמוד-631/
 משה הריס, עורך דין מומחה בתחומי נדל"ן, דיני עבודה וליווי משפטי עסקי. בעל רשיון לעריכת דין משנת 1999, הסמכה לעריכת יפוי כח מתמשך ורשיון תיווך בנדל"ן. ליווי מקצועי, אישי וצמוד בכל שלב של ההליך המשפטי.
 
 ### Access
-https://ronit-harris-fbdd8e0c.zappy5.app/access/
+https://example.com/access/
 הצהרת נגישות - משה הריס, עורך דין. מחויבות להנגשת התוכן והשירותים לקהל הרחב בהתאם לתקן W3C לרמת AA. האתר כולל תוסף נגישות ייעודי המאפשר שינוי ניגודיות, עצירת אלמנטים נעים ותמיכה בטכנולוגיות מסייעות.
 
 ### מדיניות הפרטיות של האתר
-https://ronit-harris-fbdd8e0c.zappy5.app/מדיניות-הפרטיות-של-האתר/
+https://example.com/מדיניות-הפרטיות-של-האתר/
 מדיניות הפרטיות של משה הריס, עורך דין - מידע מפורט על איסוף, שימוש, אבטחה ושמירה על מידע אישי באתר. כולל זכויות המשתמש, שימוש בעוגיות ופרטי יצירת קשר.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ronit-harris-fbdd8e0c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ronit-harris-fbdd8e0c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ronit-harris-fbdd8e0c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Ronit Harris
-Ronit Harris is a business in the שירותי אינטרנט ועיצוב אתרים industry.
-
-## Target Audience
-General audience
-
-## Industry
-שירותי אינטרנט ועיצוב אתרים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://ronit-harris-fbdd8e0c.zappy5.app/sitemap.xml
-- **Robots.txt**: https://ronit-harris-fbdd8e0c.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt

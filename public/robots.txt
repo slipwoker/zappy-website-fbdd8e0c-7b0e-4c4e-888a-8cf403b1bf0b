@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ronit-harris-fbdd8e0c.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml
